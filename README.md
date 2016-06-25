@@ -10,3 +10,10 @@ To install, simply fork this project into your repo. That will insert all the fi
 
 ##Usage
 I don't require this, but it would be nice for some recognition of my code in your app's description (on iTunes) or in the app itself
+
+##Contribution
+If you'd like to add a Data Structure, first off, Thanks! Your helping Swift be awesome.
+
+Second, make sure:
+* You don't use files that I've already written. (If my version isn't comprehensive enough to include your version too, rewrite my version so I can see what you've changed
+* Submit a pull request, and I'll merge your code. I'll also mention you below (if you want to) and credit you for your contribution
