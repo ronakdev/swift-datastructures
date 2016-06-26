@@ -13,8 +13,8 @@ Download [the zip file](https://github.com/ronakdev/swift-datastructures/archive
 ##Data Structures Implemented
 So Far, we have
 
-* LinkedLists
-* Queues
+* [LinkedLists](https://github.com/ronakdev/swift-datastructures/blob/master/DataStructures/LinkedList.md)
+* [Queues](https://github.com/ronakdev/swift-datastructures/blob/master/DataStructures/Queue.md)
 
 Each structure conforms to ```SequenceType``` and ```CustomStringConvertible```, so you can use them as easily as traditional Swift structures
 
